@@ -34,7 +34,7 @@ To run this bot, you'll need the following installed:
 
 3. Add your Telegram Bot Token to the bot by modifying the `TOKEN` variable in the `bot.py` file:
    ```python
-   TOKEN = 'YOUR_BOT_TOKEN'
+   TOKEN = 762967239:AAHitRcgZND8cYL8shtuZhwjDApZqi-TwBg
    ```
 
 4. Run the bot:
